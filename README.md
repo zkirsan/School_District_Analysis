@@ -39,7 +39,7 @@ Reading Scores by grade before dropping 9th grades at THS
 Reading Scores by grade after dropping 9th grades at THS
 <p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/reading_scores_by_grade_after.PNG"></img></p>
 
-The scores by spending outcomes indicate that less spending money scores are higher than more spending money per student' success. 
+The scores by spending outcomes indicate that less spending money in the school' scores are higher than more spending money per student' success. 
 <p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/spending_summary_with_averages_after.PNG"></img></p>
 
 However, the scores by school size' results illustrated that there was a remarkable relationship between the school size and students' successes.
