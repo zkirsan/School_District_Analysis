@@ -3,15 +3,16 @@
 The project consists of city school district data for analyzing information from various sources. In this project, the goal is to provide insights about performance trends and patterns from the preparing data. Those are going to use for informing discussions and strategic decisions at the school and district level. Furthermore, the other purpose of the project is to aggregate the data and showcase trends in school performance. Afterwards,  the made analyses will assist the school board and superintendent in making decisions regarding the school budgets and priorities. 
 ## Results
 The school board has found signs of academic dishonesty in the students_ complete.csv file; specifically, reading and math scores for Thomas High School ninth-graders seem to have been changed. For this reason, all analyses consist of comparative analyses according to the given data. The outcomes of the projects are;
-	1. District Summary before dropping the 9th grade at the Thomas High School
-	2. District Summary after dropping the 9th grade at the Thomas High School
-	3. School Summary before dropping the 9th grade at the Thomas High School
-	4. School Summary after dropping the 9th grade at the Thomas High School
-	5. The replacing the ninth graders' math and reading scores at the Thomas High School Outcomes
-	6. Math and reading scores by grade
-	7. Scores by school spending
-	8. Scores by school size
-	9. Scores by school type
+
+1. District Summary before dropping the 9th grade at the Thomas High School
+2. District Summary after dropping the 9th grade at the Thomas High School
+3. School Summary before dropping the 9th grade at the Thomas High School
+4. School Summary after dropping the 9th grade at the Thomas High School
+5. The replacing the ninth graders' math and reading scores at the Thomas High School Outcomes
+6. Math and reading scores by grade
+7. Scores by school spending
+8. Scores by school size
+9. Scores by school type
 
 The district summary shows that after replacing ninth graders for Thomas High School, the overall passing percentage has changed significantly, and the passing math and reading percentages decreased slightly.
 
