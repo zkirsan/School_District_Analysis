@@ -47,5 +47,9 @@ However, the scores by school size' results illustrated that there was a remarka
 
 Scores by School Size  
 <p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/scores_by_school_size_after.PNG"></img></p>
+
+The school type analysis showed that the charter schools have a higher score than the district school. 
+Scores by School Type
+<p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/score_by_school_type_after.PNG"></img></p>
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
