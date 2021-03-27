@@ -52,4 +52,4 @@ The school type analysis showed that the charter schools have a higher score tha
 Scores by School Type
 <p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/score_by_school_type_after.PNG"></img></p>
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Since replacing the ninth-grade math and reading scores from Thomas High School, the analysis tables are influenced by a small drop in average scores and a massive decrease in the passing percentage rate, which includes all math and reading passing percentages as well as the overall passing percentage.
