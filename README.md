@@ -20,7 +20,7 @@ District Summary before dropping the 9th grade at the Thomas High School
 <p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/District_Summary_Before.PNG"></img></p>
 
 District Summary after dropping the 9th grade at the Thomas High School
-<p align="center"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/District_Summary_After.PNG"></img></p>
+<p align="right"><img src="https://github.com/zkirsan/School_District_Analysis/blob/main/Analysis/District_Summary_After.PNG"></img></p>
 
 When looking at the school summary tables shows that in terms of Thomas High School, the passing math dropped slightly, in contrast, the percentage of the reading score fell sharply from around 97% to 70%. 
 
